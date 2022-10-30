@@ -1,4 +1,4 @@
-.I have added the dependencies on gradle module
+.I have added the dependencies in gradle module
 
 //navigation
  def nav_version = "2.5.3"
