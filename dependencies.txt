@@ -1,0 +1,13 @@
+.I have added the dependencies on gradle module
+
+//navigation
+ def nav_version = "2.5.3"
+
+    implementation "androidx.navigation:navigation-compose:$nav_version"
+
+    //coil image
+    implementation("io.coil-kt:coil-compose:2.2.2")
+
+.I have added in the AndroidManifest.xml
+
+    <uses-permission android:name="android.permission.INTERNET"/>
